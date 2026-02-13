@@ -159,7 +159,7 @@ nav {
     transform: translateY(-50%);
     width: 400px;
     height: 400px;
-    background-image: url('Logo/Logo.png');
+    background-image: url('logo/logo.png');
     background-size: contain;
     background-repeat: no-repeat;
     opacity: 0.03;
